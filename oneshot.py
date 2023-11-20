@@ -16,9 +16,9 @@ import statistics
 import csv
 from pathlib import Path
 from typing import Dict
+Asif wifi Hacking Tool
 
-
-class NetworkAddress:
+class NetworkAddress:Asif
     def __init__(self, mac):
         if isinstance(mac, int):
             self._int_repr = mac
